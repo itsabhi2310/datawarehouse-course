@@ -6,6 +6,8 @@ Datawarehouse is an entreprise level data store which stores data related to a s
 
 ### Properties of a datawarehouse:
 <ul>
-  <li>Subject Oriented: </li>
+  <li>Subject Oriented: It is built for a specific purpose and designed to do certian kind of analytics. e.g different departments in an organization may have different datawarehouse for their own analytics.</li>
+  <li>Integrated: It can be prepared from the data which may come from different sources. In other words, datawarehouse contains data which can be obtained from different data sources like transactional databases, datalakes, blob storages, FTP locations etc.</li>
+  <li>Non-volatile: Data inside a datawarehouse is non-volatile and it retains historical data.</li>
 </ul>
 
