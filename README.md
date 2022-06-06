@@ -21,4 +21,20 @@ Datawarehouse is an entreprise level data store which stores data related to a s
 
 ### OLTP and OLAP
 #### OLTP - Online Transactional Processing
+OLTP is a transactional database to store frequently changing data. i.e database of a e-commerce website
+<ul>
+  <li>Operational databases which are used to store transactional data</li>
+  <li>Effective in performing CRUD operations</li>
+  <li>Prioritises processing transactions</li>
+</ul>
+
+
+
+#### OLAP - Online Analytical Processing
+OLAP is basically an analytical database system which contains historical data. Datawarehouse is an example of OLAP System.
+<ul>
+  <li>Created to facilitates efficient analysis</li>  
+  <li>Data is loaded at a specific time or periodically,usually in batches</li>
+  <li>Data is generally denormalized and restructured </li>
+<ul>
 
