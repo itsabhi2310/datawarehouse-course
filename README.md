@@ -19,3 +19,6 @@ Datawarehouse is an entreprise level data store which stores data related to a s
   <li>Data inside a datawarehouse can serve as input for machine learning models.</li>
 </ul>
 
+### OLTP and OLAP
+#### OLTP - Online Transactional Processing
+
