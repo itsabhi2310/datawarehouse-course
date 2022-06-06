@@ -11,3 +11,11 @@ Datawarehouse is an entreprise level data store which stores data related to a s
   <li>Non-volatile: Data inside a datawarehouse is non-volatile and it retains historical data.</li>
 </ul>
 
+### Benefits of Datawarehouse:
+<ul>
+  <li>It separates transactional data from analytical data. Analytical data needs faster read capabilities whereas transactional data needs more write capabilities.</li>
+  <li>It provides a single point of contact for analytics and reporting.</li>
+  <li>It keeps historical data which is used for analytical purpose and predictions.</li>
+  <li>Data inside a datawarehouse can serve as input for machine learning models.</li>
+</ul>
+
