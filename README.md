@@ -36,7 +36,7 @@ OLAP is basically an analytical database system which contains historical data. 
   <li>Created to facilitates efficient analysis</li>  
   <li>Data is loaded at a specific time or periodically,usually in batches</li>
   <li>Data is generally denormalized and restructured </li>
-<ul>
+</ul>
 
-Data Modelling in Datawarehouse: 
+### Data Modeling in Datawarehouse: 
 
